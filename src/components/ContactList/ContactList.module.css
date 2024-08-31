@@ -1,0 +1,23 @@
+.list {
+    width: 300px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+}
+
+.button {
+    margin-left: 4px;
+    color: white;
+    background-color: gray;
+    border: 0;
+    outline: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: black;
+}
